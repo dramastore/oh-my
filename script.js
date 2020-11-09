@@ -12,7 +12,29 @@ function check() {
         updater.style.color = 'blue'
         full.innerHTML = 'Download Full Video Below 👇'
         clone.style.display = 'block'
-        clone.setAttribute('onclick', "location.href='http://google.com'")
+        clone.setAttribute('onclick', "location.href='https://playtube.ws/9i17kzh8h356.html'")
+        tryAnother.style.display = 'block'
+        button.style.display = 'none'
+        input1.disabled = true
+    }
+
+    if (input0 == 112) {
+        updater.innerHTML = 'Brazzers Premium Video 112.mp4'
+        updater.style.color = 'blue'
+        full.innerHTML = 'Download Full Video Below 👇'
+        clone.style.display = 'block'
+        clone.setAttribute('onclick', "location.href='https://playtube.ws/9i17kzh8h356.html'")
+        tryAnother.style.display = 'block'
+        button.style.display = 'none'
+        input1.disabled = true
+    }
+
+    if (input0 == 113) {
+        updater.innerHTML = 'Brazzers Premium Video 113.mp4'
+        updater.style.color = 'blue'
+        full.innerHTML = 'Download Full Video Below 👇'
+        clone.style.display = 'block'
+        clone.setAttribute('onclick', "location.href='https://playtube.ws/9i17kzh8h356.html'")
         tryAnother.style.display = 'block'
         button.style.display = 'none'
         input1.disabled = true
