@@ -60,6 +60,7 @@ header {
 footer {
     width: 100%;
     position: absolute;
+    bottom: 0;
     text-align: left;
     padding: 5px 8px;
     background-color: lightgray;
